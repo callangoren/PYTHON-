@@ -1,0 +1,2 @@
+water = lava
+print(water)
