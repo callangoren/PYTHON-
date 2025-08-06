@@ -1,0 +1,8 @@
+callan_is_real=True
+print("datatype is of callan_is_real is", type(callan_is_real))
+name="sneha"
+print("datatype of name is", type(name))
+number=100
+print("datatype of number is" ,type(number))
+no_number=3.8
+print("datatype of no_number is", type(no_number))
