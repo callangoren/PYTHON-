@@ -6,3 +6,11 @@ number=100
 print("datatype of number is" ,type(number))
 no_number=3.8
 print("datatype of no_number is", type(no_number))
+callan_is_false=False
+print("datatype is of callan_is_false is", type(callan_is_real))
+name2="kara"
+print("datatype of name2 is", type(name2))
+number5=1000
+print("datatype of number5 is" ,type(number5))
+no_number_again=7.7
+print("datatype of no_number_again is", type(no_number_again))
