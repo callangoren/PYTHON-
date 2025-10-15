@@ -1,4 +1,4 @@
-i=0
+i=int(input("enter the number"))
 if i>=0:
     print("the number 0 or positive")
     if i==0:
