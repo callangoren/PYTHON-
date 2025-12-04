@@ -1,0 +1,5 @@
+i = int (input("put a number"))
+if i >=O:
+print("it's a natural number")
+else:
+print("it's a negative number)
