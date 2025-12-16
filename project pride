@@ -1,0 +1,9 @@
+def _init_(self, canvas, colors):
+    self.canvas = canvas
+    self.id = canvas.create_rectangle(0, 0, 100, 10, fill=color)
+self.canvas.move(self.id, 200, 300)
+
+
+def draw(self):
+    pass
+paddle = Paddle(canvas, 'blue')
