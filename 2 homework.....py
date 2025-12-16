@@ -7,6 +7,5 @@ elif age > 100:
     print("Tough luck.")
 elif age > 20:
     print("GET A JOB.")
-
 else:
     print("you're a big kid now!")

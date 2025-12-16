@@ -1,0 +1,9 @@
+age = int(input("enter your age"))
+if age > 5:
+    print("you made it beyond age five not impressed.")
+elif age < 20:
+    print("code already bum!")
+
+else:
+
+    print("good luck")
