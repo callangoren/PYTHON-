@@ -119,6 +119,31 @@ if new_ban in banned_list:
 else:
     banned_list.append(new_ban)
     print("the username is now banned", banned_list)
+''
+Shopping_list = ["Vegetables", "Cookies", "Fruits"]
+print(Shopping_list)
+Item = input("Is there anything you want to remove from the shopping list?")
+if Item in Shopping_list:
+    Shopping_list.remove(Item)
+    print(Shopping_list)
+else:
+    print("This item is not found.Please try again.")
+
+
+'''
+snacks = ["cookie", "apple", "banana", "cookie", "apple"]
+print(snacks)
+snacks.index("banana")
+print(snacks)
+'''
+
+snacks = ["cookie", "apple", "banana", "cookie", "apple"]
+snacks.sort()
+print(snacks)
+count = snacks.count("apple")
+print(count)
+index = snacks.index("banana")
+print(index)
 
 
 
@@ -130,9 +155,7 @@ else:
 
 
 
-
-
-    '''
+'''
 Warm-up practice:
 
 Create a shopping cart list and print it out
